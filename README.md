@@ -42,6 +42,12 @@ Docker CE Arm - https://docs.docker.com/engine/install/debian/
 ./install_tb_docker.sh
 ```
 
+## Thingsboard Architecture
+
+original - https://thingsboard.io/docs/reference/
+
+<img src="./images/thingsboard_arch.JPG">
+
 ## Connect to Thingsboard
 
 ## Secure Thingsboard on Pi
